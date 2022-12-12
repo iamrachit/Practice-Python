@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/60937657/207009141-8778d745-009d-4704-8070-1c1a9cb4ba3e.png)
+![image](https://user-images.githubusercontent.com/60937657/207010052-6ceee59d-12ab-4a34-af33-e05cfa70c6ed.png)
 
 # Practice-Python
 
