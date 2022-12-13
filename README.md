@@ -14,3 +14,10 @@ Its a open source programming language used to develop almost any kind of applic
 
 **Website link -  https://www.python.org/**
 
+## Types of function in python 
+
+Their are categorized to be of 2 types;
+
+1. Built In Functions - 
+
+2. Custom Functions - 
