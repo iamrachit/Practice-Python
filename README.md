@@ -18,8 +18,12 @@ Its a open source programming language used to develop almost any kind of applic
 
 Their are categorized to be of 2 types;
 
-1. Built In Functions - 
+1. Built In Functions - A predefined function that we simply call as per our utility, for example print(). 
 
-2. Custom Functions - 
+list of all the built in function -  https://docs.python.org/3/library/functions.html
+
+2. Custom Functions - A user defined function which is defined as per the needed functionality. 
+
+
 
 
