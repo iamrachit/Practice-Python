@@ -10,6 +10,9 @@ This repository is a collection of python concepts with easy-to-understand code 
 
 Its a open source programming language used to develop almost any kind of application including desktop application, web application, CAD, Image processing and etc. 
 
+## Identifiers
+The identifier is the given name to entities like class, functions, variables, modules and any other object in Python. Identifiers can be a combination of the letter in lowercase, uppercase, digits or an underscore. No special character except underscore is allowed in the name of a variable. 
+
 ## Types of errors in python
 
 1. Syntax Error - Syntaxes are rules of a language and when we break these rules, the error which occurs is called Syntax Error. Examples of Syntax Errors are Misspalled keywords, Incorrect use of an operator, Omitting parentheses in a     function call. 
