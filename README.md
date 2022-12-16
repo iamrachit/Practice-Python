@@ -14,17 +14,6 @@ Its a open source programming language used to develop almost any kind of applic
 
 **Website link -  https://www.python.org/**
 
-## Types of function in python 
-
-Their are categorized to be of 2 types;
-
-1. Built In Functions - A predefined function that we simply call as per our utility, for example print(). 
-
-  list of all the built in function -  https://docs.python.org/3/library/functions.html
-
-2. Custom Functions - A user defined function which is defined as per the needed functionality. 
-
-
 
 
 
