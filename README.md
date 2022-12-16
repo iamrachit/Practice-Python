@@ -18,6 +18,8 @@ Its a open source programming language used to develop almost any kind of applic
 
 2. Runtime Error - Its a kind of error which occur while the program is running and as a end result the python interpreter halts the execution of the program and displays a message about the cause of the problem. 
 
+![image](https://user-images.githubusercontent.com/60937657/208094524-bb6e5afc-dc37-4b7c-8d61-43153a0be1a3.png)
+
 ## Resources that can help you in learning python
 
 **Website link -  https://www.python.org/**
