@@ -10,9 +10,11 @@ This repository is a collection of python concepts with easy-to-understand code 
 
 Its a open source programming language used to develop almost any kind of application including desktop application, web application, CAD, Image processing and etc. 
 
-**Know about the latest version being used -  https://pythonclock.org/**
+# Resources that can help you in learning python
 
 **Website link -  https://www.python.org/**
+**Know about the latest version being used -  https://pythonclock.org/**
+
 
 
 
