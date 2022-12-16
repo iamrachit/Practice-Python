@@ -14,7 +14,7 @@ Its a open source programming language used to develop almost any kind of applic
 
 **Website link -  https://www.python.org/**
 
-**Know about the latest version being used -  https://pythonclock.org/**
+**Know about the latest version of python being used -  https://pythonclock.org/**
 
 
 
