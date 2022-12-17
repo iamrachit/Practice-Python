@@ -13,6 +13,11 @@ Its a open source programming language used to develop almost any kind of applic
 ## Identifiers
 The identifier is the given name to entities like class, functions, variables, modules and any other object in Python. Identifiers can be a combination of the letter in lowercase, uppercase, digits or an underscore. No special character except underscore is allowed in the name of a variable. 
 
+## Reserved Words 
+keyword or reserve word are those words which are already reserved by python, we can not use those words as an identifier like a variable
+
+![image](https://user-images.githubusercontent.com/60937657/208255623-046ddd75-7cf6-46cf-846d-d83faa88bd30.png)
+
 ## Types of errors in python
 
 1. Syntax Error - Syntaxes are rules of a language and when we break these rules, the error which occurs is called Syntax Error. Examples of Syntax Errors are Misspalled keywords, Incorrect use of an operator, Omitting parentheses in a     function call. 
