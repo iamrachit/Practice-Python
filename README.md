@@ -34,7 +34,7 @@ keyword or reserve word are those words which are already reserved by python, we
 
 **Know about the latest version of python being used -  https://pythonclock.org/**
 
-
+**List of all the built in function - https://docs.python.org/3/library/functions.html**
 
 
 
