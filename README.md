@@ -28,7 +28,7 @@ keyword or reserve word are those words which are already reserved by python, we
 
 ![image](https://user-images.githubusercontent.com/60937657/208094524-bb6e5afc-dc37-4b7c-8d61-43153a0be1a3.png)
 
-## Resources that can help you in learning python
+## Resources that can help in learning python
 
 **Website link -  https://www.python.org/**
 
